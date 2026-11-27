@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest: #174D35;
+  --color-botanical: #0D3021;
+  --color-gold: #C5A15B;
+  --color-olive: #708B45;
+  --color-ivory: #F8F3E7;
+  --color-beige: #E9E1D2;
+  --color-paper: #FFFFFF;
+
+  --font-serif: "Cormorant Garamond", "Noto Sans Devanagari", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", "Noto Sans Devanagari", system-ui, -apple-system, sans-serif;
+  --font-devanagari: "Noto Sans Devanagari", "Plus Jakarta Sans", sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-devanagari);
+    background-color: #F8F3E7;
+    color: #0D3021;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-display {
+    text-wrap: balance;
+  }
+
+  button, a, input, select, textarea {
+    outline-color: #C5A15B;
+  }
+
+  :focus-visible {
+    outline: 2px solid #C5A15B;
+    outline-offset: 2px;
+  }
+}
+
+.paper-surface {
+  background-color: #F8F3E7;
+  background-image: radial-gradient(rgba(13, 48, 33, 0.03) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

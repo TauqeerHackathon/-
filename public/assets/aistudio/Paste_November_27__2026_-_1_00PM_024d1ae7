@@ -1,0 +1,1361 @@
+# MASTER PROJECT DEVELOPMENT PROMPT
+## KANHAIYA AUSHADHI BHANDAR — OFFICIAL WEBSITE & DIGITAL HERBAL PLATFORM
+
+Act as a senior full-stack developer, UI/UX designer, brand strategist, product catalogue architect, SEO specialist, accessibility engineer and quality assurance engineer.
+
+Build a complete, premium, production-ready, responsive business website for Kanhaiya Aushadhi Bhandar, an Indian traditional herbal, Ayurvedic ingredient and pansari products business located in Agra, Uttar Pradesh, India.
+
+Do not create a generic medical website or a basic landing page. Develop a distinctive, professionally branded, expandable digital business platform.
+
+---
+
+# 1. OFFICIAL BUSINESS INFORMATION
+
+Use the following information exactly as supplied in the client's official PDF.
+
+Brand Name (Hindi):
+कन्हैया औषधि भंडार
+
+Brand Name (English):
+Kanhaiya Aushadhi Bhandar
+
+Traditional Business Identity:
+वैद्य सूरजभान पंसारी कागारौल वाले
+
+Proposed Brand Tagline:
+प्रकृति की शक्ति, परंपरा का विश्वास।
+
+English Tagline:
+Nature's Wisdom. Tradition's Trust.
+
+Business Location:
+खेरिया मोड़ चौराहा, आगरा, उत्तर प्रदेश, भारत
+
+English Address:
+Kheria Mod Chauraha, Agra, Uttar Pradesh, India
+
+Contact Person:
+Dr. Mohit Gupta
+
+Contact Number:
++91 9012429042
+
+Business Categories:
+
+- Traditional herbal products
+- Ayurvedic raw ingredients
+- Dried medicinal herbs
+- Herbal roots and powders
+- Traditional Indian spices
+- Nutritional seeds
+- Dry fruits
+- Traditional gums
+- Natural hair care ingredients
+- Natural skin care ingredients
+- Seasonal kadha ingredients
+- Pooja and havan materials
+- Traditional pansari products
+
+Website developer attribution:
+Developed by GXA Technologies
+
+Do not invent the establishment year, business registration number, qualifications, manufacturing facilities, laboratory certifications, business awards, customer numbers, store timings or medical credentials.
+
+---
+
+# 2. SOURCE OF TRUTH AND UPLOADED ASSETS
+
+I will provide:
+
+1. The official Kanhaiya Aushadhi Bhandar stock-list PDF.
+2. The approved Kanhaiya Aushadhi Bhandar logo.
+3. Additional authentic business photographs and product photographs whenever available.
+
+Read and inspect both pages of the supplied PDF.
+
+The official PDF is the primary source of truth for business information, product names, product variants and stock catalogue categories.
+
+Strict requirements:
+
+- Do not omit any listed product.
+- Do not replace the official stock list with a generic Ayurvedic catalogue.
+- Do not add products that are not mentioned in the PDF without administrator approval.
+- Preserve Hindi product names and supplied variants.
+- Preserve the original grouping as source metadata.
+- Do not assume that every listed item is currently in stock.
+- Do not automatically convert traditional-use descriptions into proven medical claims.
+- Flag ambiguous product names and botanical identifications for manual verification.
+- Maintain a source-reference field identifying the relevant PDF page and row.
+
+---
+
+# 3. BRAND LOGO AND IDENTITY PROTECTION
+
+Use my uploaded approved logo as the official brand identity throughout the website.
+
+STRICT LOGO RULES:
+
+- Never redesign or regenerate the uploaded logo.
+- Never change its Hindi or English text.
+- Never change the logo colours.
+- Never stretch, distort or crop the logo.
+- Preserve the original aspect ratio.
+- Use the uploaded logo in the header, footer, mobile navigation and loading experience.
+- Generate an appropriately optimized favicon using the existing logo artwork.
+- Prepare social sharing assets using the same approved logo.
+- Ensure the logo remains readable on mobile, tablet and desktop.
+
+Use responsive logo sizing with sufficient surrounding clear space.
+
+---
+
+# 4. PREMIUM WEBSITE DESIGN SYSTEM
+
+Create a premium Indian herbal brand aesthetic that combines traditional Ayurveda, nature, Indian heritage and modern commercial website design.
+
+Official colour palette:
+
+- Deep Forest Green: #174D35
+- Royal Antique Gold: #C5A15B
+- Herbal Olive Green: #708B45
+- Warm Ivory: #F8F3E7
+- Dark Botanical Green: #0D3021
+- Soft Natural Beige: #E9E1D2
+- White: #FFFFFF
+
+Design direction:
+
+- Premium editorial photography.
+- Modern, spacious layouts.
+- Refined botanical illustrations.
+- Elegant antique-gold accents.
+- Traditional Indian visual elements used subtly.
+- Natural paper textures where appropriate.
+- High-quality product photography.
+- Premium product cards.
+- Beautiful typography.
+- Consistent corner radii and spacing.
+- Lightweight animations and transitions.
+- Professional mobile-first design.
+
+Typography:
+
+- Hindi: Noto Sans Devanagari or another high-quality Devanagari typeface.
+- English headings: Playfair Display, Cormorant Garamond or another elegant serif.
+- English body text: Inter or equivalent readable typeface.
+
+Avoid:
+
+- Generic AI-generated website templates.
+- Excessive gradients.
+- Neon colours.
+- Hospital-style blue and white themes.
+- Unnecessary medical symbols.
+- Excessive animations.
+- Fake certifications.
+- Fake testimonials.
+- Fake discounts.
+- Cluttered layouts.
+
+---
+
+# 5. COMPLETE OFFICIAL PRODUCT DATABASE
+
+The following catalogue has been transcribed from both pages of the official client PDF.
+
+Every named item and explicitly supplied variant must be represented in the catalogue database.
+
+Preserve all 34 original product groups and create individually searchable product records where the group contains multiple products.
+
+## SOURCE SECTION A — प्रमुख एवं विशेष जड़ी-बूटियां
+
+PDF Page 1 — 19 product groups.
+
+### Group A01
+- छोटी हरड़ (जंगी हरड़)
+
+### Group A02
+- बड़ी हरड़ (पीली हरड़)
+
+### Group A03
+- सूखा आंवला — साबुत
+- सूखा आंवला — कली
+
+### Group A04
+- बहेड़ा — साबुत
+- बहेड़ा — छिलका
+
+### Group A05
+- टेसू के फूल (पलाश पुष्प)
+
+### Group A06
+- आंबा हल्दी (अमिया हल्दी)
+
+### Group A07
+- चोट सज्जी / सज्जी खार
+
+### Group A08
+- अश्वगंधा — नागौरी जड़
+- अश्वगंधा — चूर्ण
+
+### Group A09
+- गिलोय — सूखी डंडी
+- गिलोय — चूर्ण
+
+### Group A10
+- मुलेठी — लकड़ी
+- मुलेठी — पाउडर
+
+### Group A11
+- पीली शतावरी
+- सफेद शतावरी
+
+### Group A12
+- अर्जुन की छाल
+
+### Group A13
+- इसबगोल भूसी
+- सनाय पत्ती
+
+### Group A14
+- बड़ा गोखरू
+- छोटा गोखरू
+
+### Group A15
+- चिरायता
+- कुटकी
+- कालमेघ
+
+### Group A16
+- ब्राह्मी
+- शंखपुष्पी
+- जटामांसी
+
+### Group A17
+- गुड़मार
+- जामुन गुठली
+- विजयसार
+
+### Group A18
+- निर्गुंडी
+- रासना
+- सुरंजन
+
+### Group A19
+- मंजिष्ठा
+- अनंतमूल
+- बाकुची
+
+### Group A20
+- काकड़ासिंगी
+- भारंगी
+- इंद्रजौ — मीठा
+- इंद्रजौ — कड़वा
+
+Note: Group IDs A01–A20 reflect the individual source rows. Use the actual row-level source mapping instead of relying solely on any preliminary group count.
+
+---
+
+## SOURCE SECTION B — पंसारी मसाले, पौष्टिक बीज एवं रसोई सामग्री
+
+PDF Page 2.
+
+### Group B01
+- अजवाइन
+- सौंफ
+- मेथी
+- कलौंजी
+
+### Group B02
+- जीरा
+- शाह जीरा
+- काली मिर्च
+- लौंग
+
+### Group B03
+- छोटी इलायची
+- बड़ी इलायची
+- दालचीनी
+- तेजपत्ता
+
+### Group B04
+- सोंठ
+- साबुत हल्दी
+- जायफल
+- जावित्री
+- पीपली
+
+### Group B05
+- चकरी फूल
+- हींग — डली
+- हींग — पाउडर
+- अनारदाना
+
+### Group B06
+- अलसी
+- चिया
+- कद्दू के बीज
+- खरबूज मगज
+- तरबूज मगज
+- खसखस
+
+### Group B07
+- धागे वाली मिश्री
+- सेंधा नमक
+- काला नमक
+- समुद्री नमक
+
+---
+
+## SOURCE SECTION C — गोंद, मेवा, केश-त्वचा देखभाल एवं पूजा-हवन सामग्री
+
+PDF Page 2.
+
+### Group C01
+- बबूल गोंद
+- गोंद कतीरा
+- कमरकस
+- लोध्र
+- अशोक छाल
+
+### Group C02
+- सफेद मूसली
+- काली मूसली
+- कौंच बीज
+- विदारीकंद
+- अकरकरा
+- तालमखाना
+
+### Group C03
+- मखाना
+- छुहारा
+- अंजीर
+- बीज वाला मुनक्का
+- केसर
+
+### Group C04
+- रीठा
+- शिकाकाई
+- भृंगराज
+- मेहंदी पत्ती
+- रतनजोत
+- नागरमोथा
+
+### Group C05
+- मुल्तानी मिट्टी
+- लाल चंदन
+- सफेद चंदन
+- गुलाब पत्ती
+- खस
+- सुगंधबाला
+
+### Group C06
+- सुहागा
+- सफेद फिटकरी
+- लाल फिटकरी
+- नौसादर
+- यवक्षार
+- गेरू
+
+### Group C07
+- हवन सामग्री
+- भीमसेनी कपूर
+- लोबान
+- भैंसा गूगल
+- राल
+- जटामांसी
+
+### Group C08
+- काला तिल
+- सफेद तिल
+- जौ
+- पीली सरसों
+- कमल गट्टा
+- रुद्राक्ष
+- जनेऊ
+
+---
+
+# 6. PRODUCT DATABASE ARCHITECTURE
+
+Create a centralized product database instead of hardcoding product cards independently on multiple pages.
+
+Each product must support:
+
+- Unique product ID
+- Original PDF product name
+- Hindi name
+- English name
+- Alternative names
+- Search aliases
+- URL slug
+- Primary category
+- Additional categories
+- Original PDF section
+- Original PDF page number
+- Original PDF group ID
+- Product variants
+- Botanical name, if verified
+- Botanical verification status
+- Product description
+- Traditional uses
+- Evidence and reference information
+- Product form
+- Product photographs
+- Packaging photographs
+- Available pack sizes
+- Price
+- Stock status
+- Safety information
+- Storage instructions
+- SEO title
+- Meta description
+- Featured product status
+- Publication status
+- Last updated date
+
+Important:
+
+Products appearing in multiple PDF categories, such as जटामांसी, must use one canonical product record with multiple category associations.
+
+Do not create duplicate products unnecessarily.
+
+Do not invent prices, packaging sizes, availability, botanical names or safety information.
+
+If data is unavailable:
+
+- Price: Contact for Price
+- Availability: Confirm Availability
+- Packaging: Contact Store
+- Image: Branded neutral placeholder
+- Botanical name: Verification Pending
+- Product details: Pending Review
+
+Do not display empty or incomplete internal fields to public visitors.
+
+---
+
+# 7. WEBSITE PRODUCT CATEGORIES
+
+Organize the official products into customer-friendly categories while maintaining their original PDF references.
+
+Create the following category structure:
+
+1. आयुर्वेदिक जड़ी-बूटियां — Ayurvedic Herbs
+2. औषधीय जड़ एवं छाल — Herbal Roots & Barks
+3. हर्बल चूर्ण एवं सामग्री — Herbal Powders & Ingredients
+4. त्रिफला सामग्री — Triphala Ingredients
+5. देसी मसाले — Traditional Indian Spices
+6. पौष्टिक बीज — Nutritional Seeds
+7. सूखे मेवे — Dry Fruits
+8. गोंद एवं पारंपरिक सामग्री — Traditional Gums
+9. केश देखभाल — Natural Hair Care Ingredients
+10. त्वचा देखभाल — Natural Skin Care Ingredients
+11. काढ़ा सामग्री — Traditional Kadha Ingredients
+12. पूजा एवं हवन सामग्री — Pooja & Havan Materials
+13. पारंपरिक पंसारी सामग्री — Traditional Pansari Essentials
+14. सभी उत्पाद — All Products
+
+Support multiple category associations for a single product.
+
+Do not categorize products as guaranteed treatments for specific diseases.
+
+---
+
+# 8. WEBSITE NAVIGATION AND COMPLETE PAGES
+
+Create the following public-facing pages:
+
+- Home
+- About Us
+- All Products
+- Product Categories
+- Individual Category Pages
+- Individual Product Detail Pages
+- Herbal Knowledge Centre
+- Blog / Herbal Journal
+- Photo Gallery
+- Frequently Asked Questions
+- Product Enquiry
+- Contact Us
+- Privacy Policy
+- Terms and Conditions
+- Medical and Herbal Information Disclaimer
+
+Recommended navigation:
+
+Home | About Us | Our Products | Herbal Knowledge | Gallery | Contact
+
+Add a Hindi / English language switcher.
+
+Hindi should be the default language.
+
+Both language versions must work completely. Do not implement a decorative language toggle without actual translations.
+
+---
+
+# 9. HOMEPAGE DEVELOPMENT
+
+Create a visually impressive, professional homepage.
+
+## Section 1 — Premium Header
+
+Include:
+
+- Official uploaded logo.
+- Brand name.
+- Responsive navigation.
+- Product search.
+- Hindi / English language switcher.
+- WhatsApp enquiry button.
+- Contact number.
+
+## Section 2 — Hero Banner
+
+Use a premium visual featuring traditional Indian herbs, dried roots, spices, leaves, mortar and pestle and natural materials.
+
+Main heading:
+
+प्रकृति की शक्ति, परंपरा का विश्वास।
+
+Supporting heading:
+
+पारंपरिक जड़ी-बूटियों एवं पंसारी सामग्री का विश्वसनीय केंद्र।
+
+Supporting description:
+
+जड़ी-बूटियों, आयुर्वेदिक सामग्री, देसी मसालों, पौष्टिक बीजों एवं पारंपरिक पंसारी उत्पादों की विस्तृत श्रृंखला।
+
+Primary buttons:
+
+- हमारे उत्पाद देखें
+- WhatsApp पर संपर्क करें
+
+Use a premium dark-green and warm-ivory design.
+
+## Section 3 — Explore Product Categories
+
+Display professionally designed, clickable category cards with representative images.
+
+Each card must open its relevant product catalogue.
+
+## Section 4 — Featured Products
+
+Display selected products from the official PDF, including:
+
+- अश्वगंधा
+- गिलोय
+- शतावरी
+- मुलेठी
+- सूखा आंवला
+- बहेड़ा
+- अर्जुन की छाल
+- ब्राह्मी
+- गोंद कतीरा
+- सफेद मूसली
+- केसर
+- शिकाकाई
+
+Featured products must be controlled from the admin dashboard.
+
+## Section 5 — Our Traditional Identity
+
+Present:
+
+कन्हैया औषधि भंडार
+
+वैद्य सूरजभान पंसारी कागारौल वाले
+
+Highlight the business's traditional herbal and pansari identity using the official information.
+
+Do not invent its history, age or claims of generations of service.
+
+## Section 6 — Product Variety
+
+Display visually appealing sections for:
+
+- Traditional Herbs
+- Indian Spices
+- Nutritional Seeds
+- Dry Fruits
+- Natural Hair & Skin Care
+- Traditional Pooja Materials
+
+## Section 7 — Herbal Knowledge Centre
+
+Show educational articles introducing selected herbs, their identification, traditional uses and safety considerations.
+
+Do not present this section as an online diagnosis or prescribing system.
+
+## Section 8 — Why Visit Our Store?
+
+Use factual business highlights:
+
+- Wide range of traditional herbal ingredients.
+- Different product forms listed in the official catalogue.
+- Traditional Indian spices and pansari products.
+- Direct product enquiries.
+- Convenient local store contact.
+
+Avoid unverified claims about purity testing, organic certification, medical effectiveness or guaranteed results.
+
+## Section 9 — Visit Our Store
+
+Display:
+
+कन्हैया औषधि भंडार
+
+खेरिया मोड़ चौराहा, आगरा
+
+Contact: Dr. Mohit Gupta
+
+Phone: +91 9012429042
+
+Include:
+
+- Call Now.
+- WhatsApp Enquiry.
+- Get Directions.
+
+Use an actual verified Google Maps listing or confirmed map coordinates before embedding a precise store pin.
+
+## Section 10 — Premium Footer
+
+Include:
+
+- Approved logo.
+- Business information.
+- Product categories.
+- Quick links.
+- Contact details.
+- Verified social media links.
+- Privacy policy.
+- Terms and conditions.
+- Disclaimer.
+- Developed by GXA Technologies.
+
+---
+
+# 10. ADVANCED PRODUCT SEARCH ENGINE
+
+Develop a fully functional bilingual product search system.
+
+Search must support:
+
+- Hindi product names.
+- English product names.
+- Roman Hindi spellings.
+- Alternative names.
+- Category names.
+- Product variants.
+- Verified botanical names.
+
+Examples:
+
+- Ashwagandha
+- अश्वगंधा
+- Aswagandha
+- Giloy
+- गिलोय
+- Mulethi
+- मुलेठी
+- Harad
+- हरड़
+- Gond Katira
+- गोंद कतीरा
+- Isabgol
+- इसबगोल
+
+Implement:
+
+- Instant search suggestions.
+- Typo tolerance.
+- Category filtering.
+- Product-form filtering.
+- Alphabetical sorting.
+- Featured product filtering.
+- Availability filters based on real data.
+- Mobile-friendly search overlay.
+- Clear empty-result state.
+
+Search results must link directly to the correct product detail page.
+
+---
+
+# 11. INDIVIDUAL PRODUCT DETAIL PAGE
+
+Every verified catalogue product must have its own dedicated, SEO-friendly product detail page.
+
+Include:
+
+- Hindi product name.
+- English product name.
+- Alternative names.
+- Product category.
+- Product image gallery.
+- Verified botanical name, when available.
+- Product introduction.
+- Available product forms.
+- Traditional uses, where appropriate.
+- Evidence limitations.
+- Important precautions, where verified.
+- Storage information, where verified.
+- Product enquiry button.
+- Related products.
+- Breadcrumb navigation.
+
+Do not recommend medicinal dosages or provide self-treatment instructions without appropriate professional review.
+
+Some products listed in the PDF are traditional chemical or mineral ingredients rather than ordinary consumable herbs.
+
+Products such as नौसादर, सुहागा, फिटकरी, सज्जी खार, यवक्षार, सुरंजन and कपूर must receive additional safety and intended-use verification.
+
+Do not classify every product as edible, safe for consumption or suitable for self-medication.
+
+---
+
+# 12. WHATSAPP PRODUCT ENQUIRY SYSTEM
+
+Implement a functional WhatsApp product enquiry system.
+
+Business WhatsApp number:
+
+919012429042
+
+For each product, automatically generate a product-specific enquiry message.
+
+Example:
+
+नमस्कार, मुझे कन्हैया औषधि भंडार के अश्वगंधा उत्पाद की कीमत, उपलब्धता एवं पैकेजिंग की जानकारी चाहिए।
+
+Support:
+
+- Individual product enquiries.
+- Multiple-product enquiry basket.
+- Customer-selected quantities as enquiry requests.
+- General business enquiries.
+- Direct call button.
+- Mobile sticky enquiry buttons.
+
+Use the correct WhatsApp click-to-chat URL format.
+
+Do not send messages automatically without customer interaction.
+
+---
+
+# 13. FUTURE E-COMMERCE READINESS
+
+The initial website should function as a complete product catalogue and enquiry platform.
+
+Architect it to support future e-commerce functionality, including:
+
+- Shopping cart.
+- Product variants.
+- Pack sizes.
+- Inventory management.
+- Customer registration.
+- Online payments.
+- Shipping management.
+- Order tracking.
+- GST invoice support.
+- Discount codes.
+- Retail and wholesale pricing.
+
+Keep unapproved e-commerce features disabled.
+
+Do not create fake checkout confirmations, fake payment gateways or simulated successful orders.
+
+Activate commercial selling features only after business approval, genuine payment integration and product-specific compliance verification.
+
+---
+
+# 14. SECURE ADMIN DASHBOARD
+
+Build a secure, production-ready admin dashboard.
+
+Recommended modules:
+
+## Dashboard
+
+- Total catalogue products.
+- Published products.
+- Draft products.
+- Products requiring verification.
+- Product categories.
+- Recent enquiries.
+- Blog articles.
+- Gallery images.
+
+## Product Manager
+
+- Add new products.
+- Edit existing products.
+- Upload real product images.
+- Manage variants.
+- Manage prices.
+- Manage availability.
+- Assign multiple categories.
+- Update product descriptions.
+- Manage SEO information.
+- Set featured products.
+- Publish or unpublish products.
+
+## Category Manager
+
+- Create categories.
+- Edit categories.
+- Manage category images.
+- Control display order.
+- Manage category descriptions.
+
+## Bulk Import / Export
+
+- CSV product import.
+- JSON product import.
+- Product database export.
+- Duplicate detection.
+- Import preview.
+- Validation before saving.
+- Backup and restore.
+- Source PDF mapping.
+
+## Content Manager
+
+- Homepage banners.
+- Homepage featured sections.
+- About Us content.
+- Contact information.
+- Frequently asked questions.
+- Business information.
+- Social media links.
+
+## Herbal Knowledge & Blog Studio
+
+- Create articles.
+- Edit articles.
+- Upload cover images.
+- Insert content images.
+- Assign product references.
+- Article categories.
+- Draft and published status.
+- SEO settings.
+- Scheduled publication, if supported by the backend.
+- Preview before publishing.
+- Sitemap synchronization.
+
+## Gallery Manager
+
+- Store photographs.
+- Product photographs.
+- Packaging photographs.
+- Promotional images.
+- Video gallery.
+- Image alt text.
+- Display order.
+
+## Enquiry Manager
+
+Store only enquiries that have been genuinely submitted through a working website enquiry form.
+
+Track:
+
+- Enquiry reference.
+- Customer name.
+- Contact details.
+- Enquired products.
+- Date and time.
+- Status.
+- Follow-up notes.
+
+Do not imply WhatsApp messages are automatically synchronized unless an authorized WhatsApp Business integration is implemented.
+
+## Business Settings
+
+- Logo.
+- Business name.
+- Phone number.
+- WhatsApp number.
+- Address.
+- Verified map URL.
+- Social links.
+- Website SEO settings.
+- Business hours.
+- Website maintenance settings.
+
+## Security
+
+- Secure authentication.
+- Protected administrator routes.
+- Server-side authorization.
+- Password hashing.
+- Input validation.
+- Secure upload validation.
+- Rate limiting.
+- CSRF protection where applicable.
+- No exposed secrets.
+- Activity logging.
+- Data backup and restoration.
+
+Do not rely on localStorage as the sole production database or administrator authentication system.
+
+If production backend credentials are unavailable, clearly report that dependency rather than claiming the admin system is production-ready.
+
+---
+
+# 15. PRODUCT IMAGE STRATEGY
+
+Product images are extremely important for this website.
+
+Use a consistent visual photography direction:
+
+- Natural ivory or beige background.
+- Premium editorial product composition.
+- Wooden bowls where appropriate.
+- Accurate representation of the actual product.
+- Natural lighting.
+- Clean botanical presentation.
+- Consistent aspect ratio.
+
+Strict rules:
+
+- Use authentic client photographs whenever available.
+- Never use one generic herb photograph for multiple unrelated products.
+- Do not misidentify similar-looking herbs.
+- Do not use AI-generated product images as verified botanical identification references.
+- Do not invent branded product packaging.
+- Do not invent a physical store interior.
+- Use neutral branded placeholders when authentic product photos are unavailable.
+- Clearly distinguish illustrative promotional imagery from actual products.
+
+Prepare optimized image formats such as WebP or AVIF while preserving the original assets.
+
+---
+
+# 16. HERBAL KNOWLEDGE CENTRE
+
+Create a dedicated educational content platform.
+
+Suggested initial editorial topics:
+
+1. अश्वगंधा क्या है? पहचान एवं पारंपरिक उपयोग
+2. त्रिफला की तीन प्रमुख सामग्रियां
+3. छोटी हरड़ और बड़ी हरड़ में अंतर
+4. सूखा आंवला एवं उसके विभिन्न रूप
+5. गिलोय की पहचान और महत्वपूर्ण सावधानियां
+6. मुलेठी के पारंपरिक उपयोग एवं सावधानियां
+7. गोंद कतीरा और बबूल गोंद में अंतर
+8. पारंपरिक भारतीय मसालों का परिचय
+9. रीठा, शिकाकाई और भृंगराज
+10. हवन सामग्री में उपयोग होने वाले पारंपरिक घटक
+11. जड़ी-बूटियों को सुरक्षित रखने के तरीके
+12. जड़ी-बूटी खरीदते समय पहचान एवं गुणवत्ता की जांच
+
+All articles must remain in draft until their facts, evidence, safety information and references have been reviewed.
+
+Where appropriate, research authoritative sources such as:
+
+- Ministry of AYUSH.
+- Pharmacopoeia Commission for Indian Medicine & Homoeopathy.
+- Recognized pharmacopoeias.
+- Peer-reviewed scientific literature.
+- Government and recognized academic resources.
+
+Never fabricate references.
+
+Clearly distinguish traditional uses from clinically established evidence.
+
+---
+
+# 17. SOCIAL MEDIA AND DIGITAL MARKETING INTEGRATION
+
+Prepare the website for the official Kanhaiya Aushadhi Bhandar social media ecosystem.
+
+Support:
+
+- Facebook
+- Instagram
+- YouTube
+- Google Business Profile
+- WhatsApp Business
+
+Use the consistent proposed public brand name:
+
+Kanhaiya Aushadhi Bhandar
+
+Suggested handle, subject to availability:
+
+@KanhaiyaAushadhiBhandar
+
+Keep social links hidden until the actual official URLs are provided.
+
+Prepare:
+
+- Open Graph metadata.
+- Product sharing functionality.
+- Article sharing functionality.
+- Social share preview images.
+- Logo-based brand assets.
+- Social media icon placements.
+- WhatsApp product sharing.
+- Configurable social media account settings.
+
+Prepare a separate digital marketing launch checklist covering:
+
+- Account creation and verification.
+- Consistent brand identity.
+- Profile pictures and cover images.
+- Business descriptions.
+- Google Business Profile setup.
+- Product photography.
+- Educational posts.
+- Product introduction reels.
+- Store introduction videos.
+- Local SEO.
+- Content calendar.
+- Compliant paid advertising preparation.
+
+Do not create or publish external accounts or advertising campaigns without authorization.
+
+---
+
+# 18. ADVANCED SEO IMPLEMENTATION
+
+Create a technically strong, search-engine-friendly website.
+
+Implement:
+
+- Unique page titles.
+- Unique meta descriptions.
+- Canonical URLs.
+- Clean semantic HTML.
+- Proper H1, H2 and H3 hierarchy.
+- SEO-friendly product URLs.
+- SEO-friendly category URLs.
+- XML sitemap.
+- Image sitemap where appropriate.
+- Robots.txt.
+- Breadcrumb navigation.
+- Internal linking.
+- Optimized image alt text.
+- Open Graph tags.
+- Twitter/X sharing cards.
+- Hindi and English hreflang where separate language URLs are implemented.
+- Automatic sitemap updates after approved content changes.
+
+Use suitable structured data where factually supported:
+
+- Organization
+- LocalBusiness
+- Store
+- Product
+- BreadcrumbList
+- Article
+
+Do not generate fake reviews, aggregate ratings, prices, inventory availability or medical certifications in structured data.
+
+Local SEO keyword themes:
+
+- Ayurvedic herbs shop in Agra
+- Pansari shop in Agra
+- Jadi Booti shop in Agra
+- Herbal products in Agra
+- Kheria Mod Pansari Store
+- Kanhaiya Aushadhi Bhandar Agra
+- आगरा में जड़ी-बूटी की दुकान
+- आगरा पंसारी दुकान
+- खेरिया मोड़ औषधि भंडार
+- आगरा में आयुर्वेदिक जड़ी-बूटियां
+
+Use keywords naturally. Avoid keyword stuffing and duplicate doorway pages.
+
+Keep incomplete, unverified or thin product pages out of the search index until ready.
+
+---
+
+# 19. HEALTH INFORMATION AND COMPLIANCE
+
+This business handles herbal, Ayurvedic, traditional pansari, food-related and religious-use ingredients.
+
+Different products may fall under different regulatory categories.
+
+Implement a proper classification and review system.
+
+Before publishing medical, nutritional or product-performance claims, verify the applicable Indian regulations, product classification, licensing requirements and advertising restrictions using current official sources.
+
+Do not assume that one licence covers all products.
+
+Do not publish claims such as:
+
+- Guaranteed cure.
+- Permanent disease treatment.
+- 100% safe.
+- No side effects.
+- Guaranteed diabetes control.
+- Guaranteed cancer treatment.
+- Guaranteed weight loss.
+- Clinically proven without evidence.
+- Government approved without documentation.
+- Certified organic without verification.
+
+Use cautious, accurate and evidence-supported language.
+
+Display the following disclaimer prominently on relevant pages:
+
+यह जानकारी सामान्य शैक्षणिक एवं पारंपरिक उपयोग की जानकारी के उद्देश्य से प्रदान की गई है। किसी विशेष रोग, चिकित्सीय आवश्यकता या औषधि के सेवन के लिए योग्य चिकित्सक या वैद्य से परामर्श अवश्य लें।
+
+English:
+
+The information provided on this website is intended for general educational purposes and information about traditional uses. It is not a substitute for professional medical advice, diagnosis or treatment. Consult a qualified healthcare professional before using any medicinal ingredient.
+
+---
+
+# 20. TECHNICAL DEVELOPMENT REQUIREMENTS
+
+Inspect the existing project directory before selecting or changing the technology stack.
+
+If this is a new project, choose a modern, maintainable and SEO-friendly full-stack architecture.
+
+Prefer:
+
+- TypeScript.
+- React or an appropriate React-based full-stack framework.
+- Responsive component-based architecture.
+- Server-rendered or statically generated public pages where appropriate.
+- A persistent database.
+- Secure backend APIs.
+- Production-ready authentication.
+- Maintainable CSS or Tailwind CSS.
+- Accessible UI components.
+
+Maintain:
+
+- Centralized product data.
+- Reusable components.
+- Centralized translations.
+- Reusable SEO metadata.
+- Clean routing.
+- Responsive layouts.
+- Secure environment variables.
+- Documented deployment configuration.
+
+Do not overwrite unrelated existing projects.
+
+Create a backup or Git baseline before modifying an existing project.
+
+---
+
+# 21. RESPONSIVE DESIGN
+
+Verify the complete website at:
+
+- 360px mobile.
+- 390px mobile.
+- 430px mobile.
+- 768px tablet.
+- 1024px tablet / laptop.
+- 1280px desktop.
+- 1440px desktop.
+- 1920px desktop.
+
+Ensure:
+
+- No horizontal scrolling.
+- No overlapping elements.
+- No cropped brand logo.
+- No broken Hindi characters.
+- No clipped product titles.
+- No invisible navigation.
+- No overflowing product cards.
+- Proper mobile menu.
+- Readable typography.
+- Functional sticky WhatsApp and Call buttons.
+- Appropriate touch targets.
+- Accessible keyboard navigation.
+
+---
+
+# 22. WEBSITE PERFORMANCE
+
+Optimize for:
+
+- Fast initial loading.
+- Optimized image sizes.
+- Lazy loading.
+- Responsive image delivery.
+- Font optimization.
+- Minimal unnecessary JavaScript.
+- Code splitting.
+- Efficient data fetching.
+- Proper cache control.
+- Stable visual layouts.
+
+Target Lighthouse scores of 90 or above in Performance, Accessibility, Best Practices and SEO wherever reasonably achievable.
+
+Report actual measured results. Do not fabricate Lighthouse scores.
+
+---
+
+# 23. ANALYTICS AND ADVERTISING READINESS
+
+Prepare configurable integrations for:
+
+- Google Analytics 4.
+- Google Search Console.
+- Google Tag Manager.
+- Google Ads conversion tracking.
+- Meta Pixel.
+
+Track relevant events only after approved configuration:
+
+- Product view.
+- Category view.
+- Product search.
+- WhatsApp click.
+- Phone call click.
+- Directions click.
+- Enquiry submission.
+
+Do not expose customer contact information through analytics parameters.
+
+Do not send sensitive health information to advertising platforms.
+
+Do not install duplicate tracking scripts.
+
+Keep advertising tags disabled until genuine account IDs, privacy requirements and administrator approval are available.
+
+---
+
+# 24. PRODUCT CATALOGUE VERIFICATION
+
+Before completing development, perform a systematic comparison between:
+
+1. The original client PDF.
+2. The centralized product database.
+3. Public product catalogue.
+4. Product category pages.
+5. Admin product manager.
+6. Product search results.
+
+Generate a PDF-to-database reconciliation report containing:
+
+- Original PDF page.
+- Original product group.
+- Original product name.
+- Original product variants.
+- Website product ID.
+- Assigned categories.
+- Product detail URL.
+- Search availability.
+- Verification status.
+- Missing products.
+- Duplicate products.
+- Additional products not present in the PDF.
+
+Acceptance requirements:
+
+- Every original PDF product group accounted for.
+- Every explicitly listed product represented.
+- Every explicitly listed variant preserved.
+- No unauthorized catalogue additions.
+- No unnecessary duplicate product records.
+- All published product URLs functional.
+- All original Hindi product names preserved.
+
+Do not mark this verification as passed until the actual database and website have been checked against both PDF pages.
+
+---
+
+# 25. FINAL TESTING AND QUALITY ASSURANCE
+
+Perform and document:
+
+- Production build.
+- TypeScript checks.
+- Lint checks.
+- Broken link checks.
+- Route validation.
+- Product database validation.
+- PDF catalogue reconciliation.
+- Hindi rendering.
+- English translation.
+- Bilingual search.
+- Category filtering.
+- Product details.
+- WhatsApp enquiries.
+- Mobile navigation.
+- Admin authentication.
+- Product creation and editing.
+- Image uploads.
+- Blog publishing.
+- Gallery functionality.
+- SEO metadata.
+- Sitemap synchronization.
+- Database persistence after reload.
+- Error handling.
+- Security validation.
+- Responsive browser testing.
+
+Use browser screenshots to verify the final website visually.
+
+Never report a test as passed unless it has actually been executed.
+
+---
+
+# 26. FINAL PROJECT DELIVERABLES
+
+Provide:
+
+1. Complete website source code.
+2. Working public-facing website.
+3. Secure admin dashboard, with deployment prerequisites documented.
+4. Centralized official product database.
+5. Product catalogue import/export files.
+6. PDF product reconciliation report.
+7. SEO implementation report.
+8. Responsive desktop and mobile screenshots.
+9. Testing report.
+10. Deployment documentation.
+11. Administrator user guide.
+12. Environment variable configuration template.
+13. Business asset checklist.
+14. Social media launch plan.
+15. Digital marketing roadmap.
+16. Pending verification and approval list.
+
+Create the following documentation files:
+
+- README.md
+- BUSINESS_INFORMATION.md
+- PRODUCT_CATALOGUE_MASTER.md
+- PDF_PRODUCT_RECONCILIATION.md
+- DESIGN_SYSTEM.md
+- ADMIN_USER_GUIDE.md
+- SEO_IMPLEMENTATION_REPORT.md
+- HEALTH_CONTENT_REVIEW.md
+- TESTING_REPORT.md
+- DEPLOYMENT_GUIDE.md
+- SOCIAL_MEDIA_LAUNCH_PLAN.md
+- PENDING_REQUIREMENTS.md
+- DEVELOPMENT_STATUS.md
+
+---
+
+# FINAL EXECUTION INSTRUCTION
+
+Start by inspecting the uploaded stock-list PDF and the approved official logo.
+
+Establish the complete product database before developing the public product catalogue.
+
+Build the website phase by phase, without sacrificing product accuracy, security, usability or visual quality.
+
+Do not stop after generating a homepage mockup.
+
+Implement working navigation, product pages, category pages, search, enquiries, content management and all supported admin functionality.
+
+Preserve the exact official business identity and every product named in the supplied PDF.
+
+Where information is missing, create an appropriate pending-review state rather than inventing data.
+
+The final website must present Kanhaiya Aushadhi Bhandar as a premium, credible, traditional Indian herbal and pansari business with the technical foundation to expand into a nationwide digital brand.
+
+Begin implementation.

@@ -1,0 +1,6 @@
+{
+  "name": "Kanhaiya Aushadhi Bhandar",
+  "description": "Official digital herbal, Ayurvedic raw ingredients, and traditional pansari platform for Kanhaiya Aushadhi Bhandar (Vaidya Surajbhan Pansari Kagarol Wale), Kheria Mod Chauraha, Agra, Uttar Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
