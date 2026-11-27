@@ -366,8 +366,31 @@ export function getBusinessSettings(): BusinessSettings {
   const row = db.prepare('SELECT value FROM settings WHERE key = ?').get('business') as
     | { value: string }
     | undefined;
-  if (!row) return OFFICIAL_SETTINGS;
-  return { ...OFFICIAL_SETTINGS, ...(JSON.parse(row.value) as Partial<BusinessSettings>) };
+  const parsed = row ? (JSON.parse(row.value) as Partial<BusinessSettings>) : {};
+  const merged: BusinessSettings = {
+    ...OFFICIAL_SETTINGS,
+    ...parsed,
+    socialLinks: {
+      ...OFFICIAL_SETTINGS.socialLinks,
+      ...(parsed.socialLinks ?? {}),
+    },
+    analytics: {
+      ...OFFICIAL_SETTINGS.analytics,
+      ...(parsed.analytics ?? {}),
+    },
+  };
+  return {
+    ...merged,
+    verifiedMapUrl: merged.verifiedMapUrl || (process.env.VERIFIED_MAP_URL || '').trim(),
+    analytics: {
+      ...merged.analytics,
+      ga4MeasurementId: merged.analytics.ga4MeasurementId || (process.env.GA4_MEASUREMENT_ID || '').trim(),
+      gtmContainerId: merged.analytics.gtmContainerId || (process.env.GTM_CONTAINER_ID || '').trim(),
+      googleSiteVerification:
+        merged.analytics.googleSiteVerification || (process.env.GOOGLE_SITE_VERIFICATION || '').trim(),
+      metaPixelId: merged.analytics.metaPixelId || (process.env.META_PIXEL_ID || '').trim(),
+    },
+  };
 }
 
 export function saveBusinessSettings(settings: BusinessSettings): void {

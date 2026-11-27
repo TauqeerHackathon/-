@@ -50,14 +50,15 @@ export function getAdminAuthStatus(): {
   return { needsFirstRunSetup: !row, configuredViaEnv: false };
 }
 
+const ENV_COMPARE_SALT = crypto.randomBytes(16).toString('hex');
+
 export function verifyAdminPassword(candidate: string): boolean {
   if (!candidate || typeof candidate !== 'string') return false;
   const envPass = (process.env.ADMIN_PASSWORD || '').trim();
   if (envPass.length > 0) {
     // Environment variable passcode always overrides any claimed fallback hash
-    const salt = 'kab-env-salt';
-    const expected = hashPassword(envPass, salt).hash;
-    const provided = hashPassword(candidate, salt).hash;
+    const expected = hashPassword(envPass, ENV_COMPARE_SALT).hash;
+    const provided = hashPassword(candidate, ENV_COMPARE_SALT).hash;
     return safeEqualStrings(expected, provided);
   }
 
